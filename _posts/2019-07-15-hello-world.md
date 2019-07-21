@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hello World"
+comments: false
 ---
 Hello everyone! Welcome to my new blog. 
 
